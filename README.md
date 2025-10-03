@@ -1,1 +1,1 @@
-# The-Grid-Search-ALGO
+# The-Grid-Search-ALGO.This program checks if a smaller pattern grid P exists within a larger grid G. It iterates over all possible top-left positions in G, compares each character of P with the corresponding characters in G, and returns "YES" if a complete match is found, otherwise "NO".
